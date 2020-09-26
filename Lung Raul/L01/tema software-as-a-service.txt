@@ -1,0 +1,23 @@
+Dropbox :
+
+Prezentare generala:
+   Dropbox permite sa cream , sa stocam si sa partajam continut cloud impreuna cu fisiere traditionale.Conceptul principal din spatele Dropbox este ca iti aduce tot continutul intr-un singur loc , creand un fisier special pe computer . Toate fisierele sunt pastrate in cloud , astfel incat indiferent de dispozitivul pe care il utilizam sau unde il utilizam , toate fisierele raman sincronizate si actualizate. A fost clasata drept cea mai valoroasa startup din lume , cu o evaluare de 10 miliarde de dolari.
+   Dropbox este folositor pentru lucrul in echipa unde membrii echipei pot sa aduca informatiile in acelas loc fara a fi nevoie de un contact intre persoane .
+
+Istorie : 
+  Dropbox a fost fondata de studentii MIT Drew Houston si Arash Ferdowsi in 2007 , dupa ce Drew a uitat constant sa-si aduca unitatea flash USB la curs . Ca orice produs sau serviciu bun , nevoia sa personala a inspirat ideea pentru Dropbox  dar in curand si-a dat seama ca ideea era mai mare decat atat. Compania a fost lansata oficial in 2008 la conferinta TechCrunch Disrupt.
+  Dropbox ofera atat servicii B2B , cat si servicii B2C .
+
+Produsul oferit :
+  Dropbox ofera patru produse : Dropbox Plus cu 2 TB spatiu de stocare , Dropbox Professional cu 3 TB spatiu de stopcare  si Dropbox Business si Dropbox Enterprise cu optiuni de spatiu de stocare personalizate.
+  Dropbox functioneaza pe un model de proba . Planurile platite incep de la 9,99 USD / luna(41.86 lei) .
+
+Dropbox Plus :
+ Ofera functii avansate de sincronizare , securitate si recuperare a fisierelor dar si stergere de la distanta , dropbox rewind(anularea simultata a mai multor modificari), backup computer,parola dropbox,dropbox vault .
+
+Dropbox Professional :
+ Dristribuiti lucrari , putem lasa feedback si securitate la toate fisierele fara a parasi vreodata Dropbox . Include o suita de intrumente de productivitate de top pentru a va simplifica ziua de lucru .
+  
+
+Venitul anual estimat :
+ Dropbox are sediul central in San Francisco , California si are un venit estimat la 1,90 miliarde USD in 2020 . Firma are aproximativ 2300 de angajati .
